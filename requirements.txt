@@ -1,1 +1,1 @@
-Pillow
+img2pdf
